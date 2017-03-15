@@ -1,0 +1,7 @@
+{
+  "private": true,
+  "dependencies": {
+    "query-overpass": "^1.2.0",
+    "request": "latest"
+  }
+}
